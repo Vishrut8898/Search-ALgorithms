@@ -1,2 +1,2 @@
 # Search-ALgorithms
-search algorithms
+Search Algorithms in Javascript
